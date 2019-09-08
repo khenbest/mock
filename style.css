@@ -1,0 +1,88 @@
+.purple-diagonal{
+    height: 100vh;
+    background-image: linear-gradient(to top right,  #fff 50%, #69039c 50%)
+}
+nav{
+    background-color: transparent;
+}
+#Logo{
+    margin-left: 6rem;
+    height: 3.5rem;
+    width: 6rem;
+    text-align: center;
+}
+.pink{
+    background-color: #ff0994;
+}
+.pink-item{
+    width: 10rem;
+    height: 1rem;
+}
+.media-row{
+    align-items: flex-end;
+    height: 80%;
+}
+.media-player{
+    height: 30rem;
+    width: 45rem;
+    background-color: #fff;        
+    box-shadow: -2px 2px 10px 1px #888888;
+}
+.purple-btn{
+    height: 8rem;
+    width: 28rem;
+    background-image: linear-gradient(.5turn, #69039c, #fff,  #69039c );
+    border-radius: 1rem;
+    
+}
+.circle{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+.play-btn{
+  width: 0; 
+  height: 0; 
+  border-top: 2rem solid transparent;
+  border-bottom: 2rem solid transparent;
+  border-left: 6rem solid #69039c;
+  margin-left: 2.5rem; 
+  margin-top: 3rem;
+}
+.yellow-horizontal{
+    height: 100vh;
+    background-image: linear-gradient(#febe17 75%, #fff 25%)
+}
+.circle-row{
+    height: 80vh;
+    padding-top: 10vh;
+}
+.white-circle{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+    background-color: #fff;
+    align-self: center;
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+.square{
+    width: 20rem;
+    height: 18rem;
+    background-color: #69039c;
+    align-self: flex-end;
+    margin-left: 7.75rem;
+    margin-top: 3rem;
+}
+.rectangle{
+    margin-left: 12.5rem;
+        width: 10rem;
+    height: 2rem;
+}
+hr{
+    border: 3px solid #69039c;
+    margin-top: 1rem;
+}
+.purple-horizontal{
+    background-image: linear-gradient(  #69039c 70%, black 30%)
+}
